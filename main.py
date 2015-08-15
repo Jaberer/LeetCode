@@ -1,4 +1,3 @@
 # main.py
 
-s = Solution()
-s.isAnagram(s, "123", "321")
+s = Majority_Element([1, 1, 1, 2])
